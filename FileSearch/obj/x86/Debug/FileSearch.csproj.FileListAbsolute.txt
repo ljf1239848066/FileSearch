@@ -1,0 +1,7 @@
+C:\E\Develop\C#\C#2010\FileSearch\FileSearch1.0\FileSearch\bin\Debug\FileSearch.exe
+C:\E\Develop\C#\C#2010\FileSearch\FileSearch1.0\FileSearch\bin\Debug\FileSearch.pdb
+C:\E\Develop\C#\C#2010\FileSearch\FileSearch1.0\FileSearch\obj\x86\Debug\文件搜索.MainForm.resources
+C:\E\Develop\C#\C#2010\FileSearch\FileSearch1.0\FileSearch\obj\x86\Debug\FileSearch.Properties.Resources.resources
+C:\E\Develop\C#\C#2010\FileSearch\FileSearch1.0\FileSearch\obj\x86\Debug\FileSearch.csproj.GenerateResource.Cache
+C:\E\Develop\C#\C#2010\FileSearch\FileSearch1.0\FileSearch\obj\x86\Debug\FileSearch.exe
+C:\E\Develop\C#\C#2010\FileSearch\FileSearch1.0\FileSearch\obj\x86\Debug\FileSearch.pdb
